@@ -1,0 +1,10 @@
+.feature {
+    padding: 9px;
+    display: inline;
+}
+.feature i {
+    margin-bottom: 18px;
+}
+.container p{
+    font-size: 22px;
+}

@@ -1,0 +1,15 @@
+.container{
+    max-width: 1280px;
+    text-align: center;
+    padding: 45px;
+    background-color: #F8F9FA;
+}
+.container h1{
+    font-size: 55px;
+    color: #000000;
+    font-weight: 600;
+}
+.container p{
+    font-size: 26px;
+}
+
